@@ -1,0 +1,802 @@
+[
+  {
+    "Name": "Akara",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Asathra",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Antara",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Arva",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Biri",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Blendaeth",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Burana",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Chassath",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Daar",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Dentratha",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Doudra",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Driindar",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Eggren",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Farideh",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Findex",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Furrele",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Gesrethe",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Gilkass",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Harann",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Havilar",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Hethress",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Hillanor",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Jaxi",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Jezean",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Jheri",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Kadana",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Kava",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Korinn",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Megren",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Mijira",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Mishann",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Nala",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Nuthra",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Perra",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Pogranix",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Pyxrin",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Quespa",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Raiann",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Rezena",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Ruloth",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Saphara",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Savaran",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Sora",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Surina",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Synthrin",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Tatyan",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Thava",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Uadjit",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Vezera",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Zykroff",
+    "Rasse": "Dragonborn"
+  },
+  {
+    "Name": "Anbera",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Artin",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Audhild",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Balifra",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Barbena",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Bardryn",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Balhild",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Dagnal",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Dariff",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Delre",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Diesa",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Eldeth",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Eridred",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Falkrunn",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Fallthra",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Finellen",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Gillydd",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Gunnloda",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Gurdis",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Helgret",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Helja",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Hlin",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Ilde",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Jarana",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Kathra",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Kilia",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Kristryd",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Liftrasa",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Marastyr",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Mardred",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Morana",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Nalaed",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Nora",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Nurkara",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Oriff",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Ovina",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Riswynn",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Sannl",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Therlin",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Thodris",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Torbera",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Tordrid",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Torgga",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Urshar",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Valida",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Vistra",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Vonana",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Werydd",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Whurdred",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Yurgunn",
+    "Rasse": "Dwarf"
+  },
+  {
+    "Name": "Adrie",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Ahinar",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Althaea",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Anastrianna",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Andraste",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Antinua",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Arara",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Baelitae",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Bethrynna",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Birel",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Caelynn",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Chaedi",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Claira",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Dara",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Drusilia",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Elama",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Enna",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Faral",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Felosial",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Hatae",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Ielenia",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Ilanis",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Irann",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Jarsali",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Jelenneth",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Keyleth",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Leshanna",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Lia",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Maiathah",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Malquis",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Meriele",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Mialee",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Myathethil",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Naivara",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Quelenna",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Quillathe",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Ridaro",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Sariel",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Shanairla",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Shava",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Silaqui",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Sumnes",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Theirastra",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Thiala",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Tiaathque",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Traulam",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Vadania",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Valanthe",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Valana",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Xanaphia",
+    "Rasse": "Elf"
+  },
+  {
+    "Name": "Abalaba",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Bimpnottin",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Breena",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Vuvvie",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Callybon",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Caramip",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Carlin",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Cumpen",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Dalaba",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Donella",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Duvamil",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Ella",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Ellyjoybell",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Ellywick",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Enidda",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Lilli",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Loopmottin",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Lorilla",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Luthra",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Mardnab",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Meena",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Menny",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Mumpena",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Nissa",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Numba",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Nys",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Oda",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Oppah",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Orla",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Panana",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Pyntle",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Quillathe",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Ranala",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Reddlepop",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Roywyn",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Salanop",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Shamil",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Siffress",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Symma",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Tana",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Tenena",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Tervaraound",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Tippletoe",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Ulla",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Unvera",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Veloptima",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Virra",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Waywocket",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Yebe",
+    "Rasse": "Gnome"
+  },
+  {
+    "Name": "Zanna",
+    "Rasse": "Gnome"
+  }
+]

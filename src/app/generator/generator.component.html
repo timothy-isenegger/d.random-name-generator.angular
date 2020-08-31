@@ -1,0 +1,13 @@
+<h2>Random Name Generator</h2>
+<div class="filters">
+  <select [(ngModel)]="selectedGender" (ngModelChange)="getFirstnames(selectedGender)">
+    <option *ngFor="let gender of genders" value="{{gender}}">{{gender}}</option>
+  </select>
+
+  <select [(ngModel)]="selectedRace">
+    <option *ngFor="let race of races" value="{{race}}">{{race}}</option>
+  </select>
+</div>
+<p>First name: <strong>{{displayedFirstName}}</strong></p>
+<p>Family name: <strong>{{displayedFamilyName}}</strong></p>
+<button class="btn" (click)="generateNames()">Generate!</button>
